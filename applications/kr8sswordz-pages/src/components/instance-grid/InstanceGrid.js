@@ -26,7 +26,7 @@ function InstanceGrid (props) {
         <button className="primary" onClick={props.properties.onScale}>Scale</button>
       </div>
       <div className="scale-hints">
-        <p>Choose the number of instances you want to scale in your cluster and click "Scale".
+        <p>Choose the number of Natans you want to scale in your cluster and click "Scale".
           This will call our service and scale up the number of replicas to the desired size. </p>
       </div>
     </div>
